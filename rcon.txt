@@ -1,0 +1,5 @@
+describe: tooltip tide:golden_hook | FFAA00	Tier 1 hook | 00AAAA	Attracts uncommon and rarer fish (x1.2) | 00AAAA	+5% hook window | 00AAAA	+10% fishing XP | FF55FF	+1 fishing luck (rarer fish) in deserts and badlands | FF55FF	Part of: Desert rig | AAAAAA	Used to make Tier 2 hooks, which keep these perks
+guide took 1.03s
+guide over rcon: 82110 characters, 151 items, 12 rigs
+Pos: Player895 has the following entity data: [-470.5d, 78.0d, -281.5d]
+Dimension: Player895 has the following entity data: "minecraft:overworld"

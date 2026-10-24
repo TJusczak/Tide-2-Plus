@@ -1,0 +1,13 @@
+name of display: :99
+display: :99  screen: 0
+direct rendering: Yes
+Extended renderer info (GLX_MESA_query_renderer):
+    Vendor: Mesa (0xffffffff)
+    Device: llvmpipe (LLVM 20.1.2, 256 bits) (0xffffffff)
+    Version: 25.2.8
+    Accelerated: no
+    Video memory: 15989MB
+    Unified memory: yes
+    Preferred profile: core (0x1)
+    Max core profile version: 4.5
+client step: tools ready 16:33:10

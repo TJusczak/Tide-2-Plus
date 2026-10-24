@@ -1,0 +1,12 @@
+[16:35:27] [Render thread/INFO] (Tide) TIDE-CI table px hooks 282 108 result 668 160 assemble 676 56
+[16:35:27] [Render thread/INFO] (Tide) TIDE-CI table px diamond_hook 302 234
+[16:35:29] [Render thread/INFO] (Tide) TIDE-CI table step 1 hooks: 4 shown
+[16:35:29] [Render thread/INFO] (Tide) TIDE-CI table 150 recipes, 20 discovered, filter 5, 4 shown, 19 to discover, book true
+[16:35:29] [Render thread/INFO] (Tide) TIDE-CI table px hooks 282 108 result 668 160 assemble 676 56
+[16:35:29] [Render thread/INFO] (Tide) TIDE-CI table px diamond_hook 202 184
+[16:35:32] [Render thread/INFO] (Tide) TIDE-CI table step 2 fill diamond hook (can make)
+[16:35:32] [Server thread/INFO] (Tide) TIDE-CI table filled tide:diamond_hook (ok)
+[16:35:35] [Render thread/INFO] (Tide) TIDE-CI table step 3 result 1 tide:diamond_hook
+[16:35:37] [Server thread/INFO] (Tide) TIDE-CI table made tide:diamond_hook (base hook bone_hook)
+[16:35:40] [Render thread/INFO] (Tide) TIDE-CI table step 4 diamond hook in inventory, base hook bone_hook
+[16:35:43] [Render thread/INFO] (Tide) TIDE-CI table step 5 assemble tab
